@@ -1,2 +1,0 @@
-# dancewit
-trial sites
