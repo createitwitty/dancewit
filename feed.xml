@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>dancewit</title>
-    <link href="https://createitwitty.github.io/feed.xml" rel="self" />
-    <link href="https://createitwitty.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <link href="https://createitwitty.github.io/dancewit/feed.xml" rel="self" />
+    <link href="https://createitwitty.github.io/dancewit" />
+    <updated>2018-08-13T17:22:10+05:30</updated>
     <author>
         <name>pallavi</name>
     </author>
-    <id>https://createitwitty.github.io</id>
+    <id>https://createitwitty.github.io/dancewit</id>
 
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>pallavi</name>
+        </author>
+        <link href="https://createitwitty.github.io/dancewit/about-us.html"/>
+        <id>https://createitwitty.github.io/dancewit/about-us.html</id>
+
+        <updated>2018-08-13T17:21:14+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/1/" alt="" />
+                    Hey there! Let’s talk. Well this is a culmination of ideas of two&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/1/" alt="" />
+                <h2>Hey there! Let’s talk.</h2>
+<p> </p>
+Well this is a culmination of ideas of two like minds. If you met us in person you would just find us making endless conversations about dance and life and philosophy and expressions….We met in a dance class and soon realized our common paths to engage in viewing dance from a non-conventional perspective. It kept us going, discovering more, and doing a few projects here and there. <br>This is how dance inspired us. <br>The website contains, dance thoughts, articles, stories, unconventional practices, contemporary applications of dance and much more. We like to keep it simple and minimal focused to the generation NOW!<br>If our writing speaks to you or you are looking for any collaboration in dance curation /research or may be just curious to know more about our work. Feel free to contact.<br><br>Email:
+            ]]>
+        </content>
+    </entry>
 </feed>

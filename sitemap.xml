@@ -1,5 +1,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>https://createitwitty.github.io/</loc>
+<loc>https://createitwitty.github.io/dancewit/</loc>
+</url>
+<url>
+<loc>https://createitwitty.github.io/dancewit/about-us.html</loc>
 </url>
 </urlset>
