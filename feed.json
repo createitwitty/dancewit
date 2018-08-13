@@ -10,6 +10,51 @@
     },
     "items": [
         {
+            "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-3.html",
+            "url": "https://createitwitty.github.io/dancewit/Dance-Quotes-3.html",
+            "title": "Dance Quotes #3",
+            "summary": "Being a contemporary dancer. Finding personal connection with movements. ",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://createitwitty.github.io/dancewit/media/posts/4/5.jpg\" alt=\"Being a contemporary dancer. Finding personal connection with movements. \" width=\"429\" height=\"429\">\n<figcaption >Being a contemporary dancer. Finding personal connection with movements. </figcaption>\n</figure>",
+            "image": "https://createitwitty.github.io/dancewit/media/posts/4/",
+            "author": {
+                "name": "pallavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-13T17:34:41+05:30",
+            "date_modified": "2018-08-13T17:34:41+05:30"
+        },
+        {
+            "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-2.html",
+            "url": "https://createitwitty.github.io/dancewit/Dance-Quotes-2.html",
+            "title": "Dance Quotes #2",
+            "summary": "Dance is a powerful medium of change. Technical virtuosity is just a&hellip;",
+            "content_html": "<figure class=\"post__image undefined\" ><img src=\"https://createitwitty.github.io/dancewit/media/posts/3/8.jpg\" alt=\"Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. \" width=\"429\" height=\"429\">\n<figcaption >Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. </figcaption>\n</figure>",
+            "image": "https://createitwitty.github.io/dancewit/media/posts/3/",
+            "author": {
+                "name": "pallavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-13T17:33:53+05:30",
+            "date_modified": "2018-08-13T17:33:53+05:30"
+        },
+        {
+            "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-1.html",
+            "url": "https://createitwitty.github.io/dancewit/Dance-Quotes-1.html",
+            "title": "Dance Quotes #1",
+            "summary": "Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic&hellip;",
+            "content_html": "<figure class=\"post__image undefined\" ><img src=\"https://createitwitty.github.io/dancewit/media/posts/2/9.jpg\" alt=\"Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is\" width=\"429\" height=\"429\">\n<figcaption >Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is here.</figcaption>\n</figure>",
+            "image": "https://createitwitty.github.io/dancewit/media/posts/2/",
+            "author": {
+                "name": "pallavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-13T17:32:51+05:30",
+            "date_modified": "2018-08-13T17:32:51+05:30"
+        },
+        {
             "id": "https://createitwitty.github.io/dancewit/about-us.html",
             "url": "https://createitwitty.github.io/dancewit/about-us.html",
             "title": "About Us",

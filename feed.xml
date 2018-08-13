@@ -3,12 +3,84 @@
     <title>dancewit</title>
     <link href="https://createitwitty.github.io/dancewit/feed.xml" rel="self" />
     <link href="https://createitwitty.github.io/dancewit" />
-    <updated>2018-08-13T17:28:49+05:30</updated>
+    <updated>2018-08-13T17:34:52+05:30</updated>
     <author>
         <name>pallavi</name>
     </author>
     <id>https://createitwitty.github.io/dancewit</id>
 
+    <entry>
+        <title>Dance Quotes #3</title>
+        <author>
+            <name>pallavi</name>
+        </author>
+        <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-3.html"/>
+        <id>https://createitwitty.github.io/dancewit/Dance-Quotes-3.html</id>
+
+        <updated>2018-08-13T17:34:41+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/4/" alt="" />
+                    Being a contemporary dancer. Finding personal connection with movements. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/4/" alt="" />
+                <figure class="post__image post__image--center" ><img src="https://createitwitty.github.io/dancewit/media/posts/4/5.jpg" alt="Being a contemporary dancer. Finding personal connection with movements. " width="429" height="429">
+<figcaption >Being a contemporary dancer. Finding personal connection with movements. </figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dance Quotes #2</title>
+        <author>
+            <name>pallavi</name>
+        </author>
+        <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-2.html"/>
+        <id>https://createitwitty.github.io/dancewit/Dance-Quotes-2.html</id>
+
+        <updated>2018-08-13T17:33:53+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/3/" alt="" />
+                    Dance is a powerful medium of change. Technical virtuosity is just a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/3/" alt="" />
+                <figure class="post__image undefined" ><img src="https://createitwitty.github.io/dancewit/media/posts/3/8.jpg" alt="Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. " width="429" height="429">
+<figcaption >Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. </figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dance Quotes #1</title>
+        <author>
+            <name>pallavi</name>
+        </author>
+        <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-1.html"/>
+        <id>https://createitwitty.github.io/dancewit/Dance-Quotes-1.html</id>
+
+        <updated>2018-08-13T17:32:51+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/2/" alt="" />
+                    Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/2/" alt="" />
+                <figure class="post__image undefined" ><img src="https://createitwitty.github.io/dancewit/media/posts/2/9.jpg" alt="Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is" width="429" height="429">
+<figcaption >Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is here.</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Us</title>
         <author>
