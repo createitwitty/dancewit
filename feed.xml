@@ -3,7 +3,7 @@
     <title>dancewit</title>
     <link href="https://createitwitty.github.io/dancewit/feed.xml" rel="self" />
     <link href="https://createitwitty.github.io/dancewit" />
-    <updated>2018-08-13T17:44:38+05:30</updated>
+    <updated>2018-08-13T19:12:09+05:30</updated>
     <author>
         <name>pallavi</name>
     </author>
@@ -14,13 +14,11 @@
         <author>
             <name>pallavi</name>
         </author>
-        <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-3.html"/>
-        <id>https://createitwitty.github.io/dancewit/Dance-Quotes-3.html</id>
-            <category term="dancewritings"/>
-            <category term="dancethoughts"/>
-            <category term="dance motivation"/>
+        <link href="https://createitwitty.github.io/dancewit/dance-quotes-3.html"/>
+        <id>https://createitwitty.github.io/dancewit/dance-quotes-3.html</id>
+            <category term="Writing"/>
 
-        <updated>2018-08-13T17:39:56+05:30</updated>
+        <updated>2018-08-13T19:10:12+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://createitwitty.github.io/dancewit/media/posts/4/5.jpg" alt="" />
@@ -43,10 +41,9 @@
         </author>
         <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-2.html"/>
         <id>https://createitwitty.github.io/dancewit/Dance-Quotes-2.html</id>
-            <category term="dancethoughts"/>
-            <category term="dance motivation"/>
+            <category term="Illustrations"/>
 
-        <updated>2018-08-13T17:39:19+05:30</updated>
+        <updated>2018-08-13T19:10:35+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://createitwitty.github.io/dancewit/media/posts/3/6.jpg" alt="" />
@@ -69,11 +66,9 @@
         </author>
         <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-1.html"/>
         <id>https://createitwitty.github.io/dancewit/Dance-Quotes-1.html</id>
-            <category term="dancewritings"/>
-            <category term="dancethoughts"/>
-            <category term="danceart"/>
+            <category term="Videos"/>
 
-        <updated>2018-08-13T17:38:27+05:30</updated>
+        <updated>2018-08-13T19:10:54+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://createitwitty.github.io/dancewit/media/posts/2/9.jpg" alt="" />

@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-3.html",
-            "url": "https://createitwitty.github.io/dancewit/Dance-Quotes-3.html",
+            "id": "https://createitwitty.github.io/dancewit/dance-quotes-3.html",
+            "url": "https://createitwitty.github.io/dancewit/dance-quotes-3.html",
             "title": "Dance Quotes #3",
             "summary": "Being a contemporary dancer. Finding personal connection with movements. ",
             "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://createitwitty.github.io/dancewit/media/posts/4/5.jpg\" alt=\"Being a contemporary dancer. Finding personal connection with movements. \" width=\"429\" height=\"429\">\n<figcaption >Being a contemporary dancer. Finding personal connection with movements. </figcaption>\n</figure>",
@@ -20,12 +20,10 @@
                 "name": "pallavi"
             },
             "tags": [
-                   "dancewritings",
-                   "dancethoughts",
-                   "dance motivation"
+                   "Writing"
             ],
             "date_published": "2018-08-13T17:34:41+05:30",
-            "date_modified": "2018-08-13T17:39:56+05:30"
+            "date_modified": "2018-08-13T19:10:12+05:30"
         },
         {
             "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-2.html",
@@ -38,11 +36,10 @@
                 "name": "pallavi"
             },
             "tags": [
-                   "dancethoughts",
-                   "dance motivation"
+                   "Illustrations"
             ],
             "date_published": "2018-08-13T17:33:53+05:30",
-            "date_modified": "2018-08-13T17:39:19+05:30"
+            "date_modified": "2018-08-13T19:10:35+05:30"
         },
         {
             "id": "https://createitwitty.github.io/dancewit/Dance-Quotes-1.html",
@@ -55,12 +52,10 @@
                 "name": "pallavi"
             },
             "tags": [
-                   "dancewritings",
-                   "dancethoughts",
-                   "danceart"
+                   "Videos"
             ],
             "date_published": "2018-08-13T17:32:51+05:30",
-            "date_modified": "2018-08-13T17:38:27+05:30"
+            "date_modified": "2018-08-13T19:10:54+05:30"
         }
     ]
 }
