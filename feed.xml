@@ -3,7 +3,7 @@
     <title>dancewit</title>
     <link href="https://createitwitty.github.io/dancewit/feed.xml" rel="self" />
     <link href="https://createitwitty.github.io/dancewit" />
-    <updated>2018-08-13T17:34:52+05:30</updated>
+    <updated>2018-08-13T17:40:11+05:30</updated>
     <author>
         <name>pallavi</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-3.html"/>
         <id>https://createitwitty.github.io/dancewit/Dance-Quotes-3.html</id>
+            <category term="dancewritings"/>
+            <category term="dancethoughts"/>
+            <category term="dance motivation"/>
 
-        <updated>2018-08-13T17:34:41+05:30</updated>
+        <updated>2018-08-13T17:39:56+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://createitwitty.github.io/dancewit/media/posts/4/" alt="" />
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/4/5.jpg" alt="" />
                     Being a contemporary dancer. Finding personal connection with movements. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://createitwitty.github.io/dancewit/media/posts/4/" alt="" />
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/4/5.jpg" alt="" />
                 <figure class="post__image post__image--center" ><img src="https://createitwitty.github.io/dancewit/media/posts/4/5.jpg" alt="Being a contemporary dancer. Finding personal connection with movements. " width="429" height="429">
 <figcaption >Being a contemporary dancer. Finding personal connection with movements. </figcaption>
 </figure>
@@ -40,18 +43,20 @@
         </author>
         <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-2.html"/>
         <id>https://createitwitty.github.io/dancewit/Dance-Quotes-2.html</id>
+            <category term="dancethoughts"/>
+            <category term="dance motivation"/>
 
-        <updated>2018-08-13T17:33:53+05:30</updated>
+        <updated>2018-08-13T17:39:19+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://createitwitty.github.io/dancewit/media/posts/3/" alt="" />
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/3/6.jpg" alt="" />
                     Dance is a powerful medium of change. Technical virtuosity is just a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://createitwitty.github.io/dancewit/media/posts/3/" alt="" />
-                <figure class="post__image undefined" ><img src="https://createitwitty.github.io/dancewit/media/posts/3/8.jpg" alt="Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. " width="429" height="429">
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/3/6.jpg" alt="" />
+                <figure class="post__image post__image--center" ><img src="https://createitwitty.github.io/dancewit/media/posts/3/8.jpg" alt="Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. " width="429" height="429">
 <figcaption >Dance is a powerful medium of change. Technical virtuosity is just a tool for this change. </figcaption>
 </figure>
             ]]>
@@ -64,44 +69,23 @@
         </author>
         <link href="https://createitwitty.github.io/dancewit/Dance-Quotes-1.html"/>
         <id>https://createitwitty.github.io/dancewit/Dance-Quotes-1.html</id>
+            <category term="dancewritings"/>
+            <category term="dancethoughts"/>
+            <category term="danceart"/>
 
-        <updated>2018-08-13T17:32:51+05:30</updated>
+        <updated>2018-08-13T17:38:27+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://createitwitty.github.io/dancewit/media/posts/2/" alt="" />
+                        <img src="https://createitwitty.github.io/dancewit/media/posts/2/9.jpg" alt="" />
                     Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://createitwitty.github.io/dancewit/media/posts/2/" alt="" />
+                    <img src="https://createitwitty.github.io/dancewit/media/posts/2/9.jpg" alt="" />
                 <figure class="post__image undefined" ><img src="https://createitwitty.github.io/dancewit/media/posts/2/9.jpg" alt="Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is" width="429" height="429">
 <figcaption >Gravity. Speed. Time. Energy. Action. Newton's law. Anything. Everything. What a magic body is here.</figcaption>
 </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Us</title>
-        <author>
-            <name>pallavi</name>
-        </author>
-        <link href="https://createitwitty.github.io/dancewit/about-us.html"/>
-        <id>https://createitwitty.github.io/dancewit/about-us.html</id>
-
-        <updated>2018-08-13T17:21:14+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://createitwitty.github.io/dancewit/media/posts/1/" alt="" />
-                    Hey there! Let’s talk. Well this is a culmination of ideas of two&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://createitwitty.github.io/dancewit/media/posts/1/" alt="" />
-                <h2>Hey there! Let’s talk.</h2>
-<p> </p>
-Well this is a culmination of ideas of two like minds. If you met us in person you would just find us making endless conversations about dance and life and philosophy and expressions….We met in a dance class and soon realized our common paths to engage in viewing dance from a non-conventional perspective. It kept us going, discovering more, and doing a few projects here and there. <br>This is how dance inspired us. <br>The website contains, dance thoughts, articles, stories, unconventional practices, contemporary applications of dance and much more. We like to keep it simple and minimal focused to the generation NOW!<br>If our writing speaks to you or you are looking for any collaboration in dance curation /research or may be just curious to know more about our work. Feel free to contact.<br><br>Email:
             ]]>
         </content>
     </entry>
